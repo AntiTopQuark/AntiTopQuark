@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 

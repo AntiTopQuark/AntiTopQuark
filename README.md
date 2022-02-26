@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://wakatime.com/badge/user/7c1fa5d4-8b08-4e79-8279-966e71bac2d4.svg)
 <!--
 **AntiTopQuark/AntiTopQuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

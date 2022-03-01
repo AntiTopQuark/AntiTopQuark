@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **C++, DataBase, BigData...**
 - 🔭 My blog： https://antitopquark.github.io/ 
 - 📫 How to reach me:AntiTopQuark1350@outlook.com
-- 
+
 
 📊 **The last 7 days I spent my time on** 
 <!--START_SECTION:waka-->
@@ -24,4 +24,4 @@ Other   13 mins         █▓░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntiTopQuark&show_icons=true&count_private=true&hide=prs&theme=default_repocard">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AntiTopQuark&show_icons=true&count_private=true&hide=prs&theme=default_repocard">

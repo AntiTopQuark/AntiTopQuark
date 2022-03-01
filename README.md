@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 📊 **The last 7 days I spent my time on** 
 <!--START_SECTION:waka-->
 
+```text
+C++     3 hrs 3 mins    ██████████████████████▓░░   90.61 %
+Other   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+```
+
 <!--END_SECTION:waka-->
 
 

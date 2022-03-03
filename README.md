@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++     4 hrs 26 mins   █████████████████████▓░░░   86.15 %
-SQL     28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Other   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+C++        5 hrs 18 mins   ██████████████████░░░░░░░   72.07 %
+SQL        1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.27 %
+Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->

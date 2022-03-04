@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++        5 hrs 18 mins   ██████████████████░░░░░░░   72.07 %
-SQL        1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Other      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+C++        5 hrs 18 mins   █████████████████▒░░░░░░░   69.20 %
+SQL        1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Other      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->

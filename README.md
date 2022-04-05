@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#       2 hrs 30 mins   ███████████░░░░░░░░░░░░░░   44.06 %
-Other    1 hr 30 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
+C#       2 hrs 30 mins   █████████████▒░░░░░░░░░░░   52.87 %
+C++      52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
+Python   38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+PHP      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Other    14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->

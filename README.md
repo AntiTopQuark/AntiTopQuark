@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C#       2 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.15 %
-C++      1 hr 14 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-Other    47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Other    2 hrs           ██████████▓░░░░░░░░░░░░░░   43.31 %
 ```
 
 <!--END_SECTION:waka-->

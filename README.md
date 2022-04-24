@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++          7 hrs 5 mins    ████████████░░░░░░░░░░░░░   47.65 %
-Other        2 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+C++          8 hrs 3 mins    ██████████████▓░░░░░░░░░░   59.11 %
+Other        2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 %
 ```
 
 <!--END_SECTION:waka-->

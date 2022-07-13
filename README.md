@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🏠 I’m currently working on Best distributed database **OceanBase*
+- 🏠 I’m currently working on Best distributed database
 - 🌱 I’m currently learning **C++, DataBase, BigData...**
 - 🔭 My blog： https://antitopquark.github.io/ 
 - 📫 How to reach me:AntiTopQuark1350@outlook.com

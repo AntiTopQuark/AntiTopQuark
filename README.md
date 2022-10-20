@@ -7,10 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🏠 I’m currently working on Best distributed database
-- 🌱 I’m currently learning **C++, DataBase, BigData...**
-- 🔭 My blog： https://antitopquark.github.io/ 
+- 🏠 I’m currently working on best distributed database -- **OceanBase**
+- 🌱 I’m currently learning **C++, DataBase, BigData, Rust**
+- 🔭 My blog： https://blog.antitopquark.website/ 
 - 📫 How to reach me:AntiTopQuark1350@outlook.com
+- 
 
 
 📊 **The last 7 days I spent my time on** 

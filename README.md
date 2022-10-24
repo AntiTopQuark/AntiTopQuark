@@ -11,17 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **C++, DataBase, BigData, Rust**
 - 🔭 My blog： https://blog.antitopquark.website/ 
 - 📫 How to reach me:AntiTopQuark1350@outlook.com
-- 
 
-
-<!-- 📊 **The last 7 days I spent my time on** 
-<!--START_SECTION:waka-->
-
-```text
-Other          11 hrs 10 mins  ██████████████████░░░░░░░   71.80 %
-```
-
-<!--END_SECTION:waka--> -->
 
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 

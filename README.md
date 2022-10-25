@@ -1,6 +1,6 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AntiTopQuark&show_icons=true&count_private=true&hide=prs&theme=default_repocard">
-
+Hello stranger, 
 - 🏠 I’m currently working on best database -- **OceanBase**
 - 🌱 I’m currently learning **C++, DataBase, BigData, Rust**
 - 🔭 My blog： https://blog.antitopquark.website/ 

@@ -23,7 +23,7 @@ jobs:
     - name: Generate new README
       run: python3 script/waka.py && cat README.md
       env:
-        GH_TOKEN: ${{ github.token }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         USERNAME: ${{ github.repository_owner }}
         SHOW_TITLE: false
@@ -38,7 +38,7 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ github.token }}
+        github_token: ${{ secrets.GH_TOKEN }}
         branch: master
     - name: Git status
       run: git status

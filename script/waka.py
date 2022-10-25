@@ -65,12 +65,12 @@ def get_stats() -> str:
         return "Oops, no coding activity at all :("
 
     data_list = []
-    pad = len(max([l['name'] for l in lang_data[:5]], key=len))
-    for lang in lang_data[:5]:
+    pad = len(max([l['name'] for l in lang_data[:7]], key=len))
+    for lang in lang_data[:7]:
         lth = len(lang['name'])
         ln_text = len(lang['text'])
         # following line provides a neat finish
-        fmt_percent = format(lang['percent'], '0.2f').zfill(5)
+        fmt_percent = format(lang['percent'], '0.2f').zfill(7)
         data_list.append(
             f"{lang['name']}{' '*(pad + 3 - lth)}{lang['text']}{' '*(16 - ln_text)}{make_graph(lang['percent'])}   {fmt_percent} %")
     data = ' \n'.join(data_list)

@@ -7,8 +7,7 @@
 - 📫 How to reach me:AntiTopQuark1350@outlook.com
 
 
-#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
-![](https://wakatime.com/badge/user/7c1fa5d4-8b08-4e79-8279-966e71bac2d4.svg)
+
 
 📊 **The last 7 days I spent my time on** 
 

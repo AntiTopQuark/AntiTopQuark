@@ -15,6 +15,7 @@
 <!--START_SECTION:waka-->
 ```text
 04 October, 2022 - 10 October, 2022
+
 Rust               5 hrs 56 mins   ███████████░░░░░░░░░░░░░░   47.26 % 
 Jupyter Notebook   2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 YAML               1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 

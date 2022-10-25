@@ -36,7 +36,7 @@ jobs:
         git add README.md
         git commit -m "Updated with Dev Metrics" || echo "No changes to commit"
     - name: Push changes
-      uses: ad-m/github-push-action@main
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GH_TOKEN }}
         branch: main

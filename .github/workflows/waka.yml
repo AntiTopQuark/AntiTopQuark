@@ -1,0 +1,44 @@
+name: Update readme with WakaTime stats
+on:
+  push:
+    branches: 
+      - master
+  schedule:
+    - cron: "10 23 * * *"
+  workflow_dispatch:
+
+
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: pip3 install -r script/requirements.txt
+    - name: Generate new README
+      run: python3 script/waka.py && cat README.md
+      env:
+        GH_TOKEN: ${{ github.token }}
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        USERNAME: ${{ github.repository_owner }}
+        SHOW_TITLE: false
+    - name: Git status
+      run: git status
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Updated with Dev Metrics" || echo "No changes to commit"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ github.token }}
+        branch: master
+    - name: Git status
+      run: git status

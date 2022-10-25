@@ -11,10 +11,14 @@
 ![](https://wakatime.com/badge/user/7c1fa5d4-8b08-4e79-8279-966e71bac2d4.svg)
 
 <!--START_SECTION:waka-->
-
 ```text
-Other          16 hrs 58 mins  ███████████████████▒░░░░░   77.45 %
-```
+18 October, 2022 - 24 October, 2022
 
+Other          16 hrs 58 mins  ███████████████████░░░░░░   77.45 % 
+C++            3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+TeX            1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+YAML           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+OpenEdge ABL   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
 <!--END_SECTION:waka-->
 

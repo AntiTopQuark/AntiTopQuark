@@ -1,6 +1,4 @@
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AntiTopQuark&show_icons=true&count_private=true&hide=prs&theme=default_repocard">
-
 Hello stranger, 
 
 - 🏠 I’m currently working on best database -- **OceanBase**
@@ -9,8 +7,7 @@ Hello stranger,
 - 📫 How to reach me:AntiTopQuark1350@outlook.com
 
 
-<br><br>
-<br>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=AntiTopQuark&show_icons=true&count_private=true&hide=prs&theme=default_repocard">
 
 
 📊 **The last 7 days I spent my time on** 

@@ -16,12 +16,11 @@ Hello stranger,
 
 <!--START_SECTION:waka-->
 ```text
-24 October, 2022 - 30 October, 2022
+25 October, 2022 - 31 October, 2022
 
-Other    7 hrs 57 mins   ████████████░░░░░░░░░░░░░   50.90 % 
-C++      7 hrs 20 mins   ███████████░░░░░░░░░░░░░░   47.02 % 
-YAML     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Python   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C++      9 hrs 19 mins   █████████████████░░░░░░░░   67.81 % 
+Other    4 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   31.42 % 
+Python   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 <!--END_SECTION:waka-->
 

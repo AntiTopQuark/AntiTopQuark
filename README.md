@@ -3,9 +3,9 @@ Hello stranger,
 
 - 🏠 I’m currently working on best database -- **OceanBase**
 - 🌱 I’m currently learning **C++, DataBase, BigData, Rust**
-- 🔭 My blog： https://blog.antitopquark.website/ 
-- 👦 My Resue: http://cv_cn.antitopquark.website/
-- 🚉 My OJ:http://oj.antitopquark.website/
+- 🔭 My blog:   http://blog.antitopquark.website/ 
+- 👦 My Resue:  http://cv_cn.antitopquark.website/
+- 🚉 My OJ:     http://oj.antitopquark.website/
 - 📫 How to reach me:AntiTopQuark1350@outlook.com
 
 

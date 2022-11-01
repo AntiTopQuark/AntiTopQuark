@@ -1,5 +1,5 @@
 
-Hello stranger, 
+Hello , 
 
 - 🏠 I’m currently working on best database -- **OceanBase**
 - 🌱 I’m currently learning **C++, DataBase, BigData, Rust**

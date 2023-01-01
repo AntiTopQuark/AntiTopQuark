@@ -16,7 +16,7 @@ Hello ,
 
 <!--START_SECTION:waka-->
 ```text
-25 December, 2022 - 31 December, 2022
+26 December, 2022 - 01 January, 2023
 
 C++      4 hrs 13 mins   █████████████░░░░░░░░░░░░   55.38 % 
 Other    2 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   37.42 % 

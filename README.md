@@ -13,7 +13,7 @@ Hello ,
 
 <!--START_SECTION:waka-->
 ```text
-21 February, 2023 - 27 February, 2023
+22 February, 2023 - 28 February, 2023
 
 C++      3 hrs 16 mins   ███████████████████░░░░░░   78.69 % 
 Other    35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.14 % 

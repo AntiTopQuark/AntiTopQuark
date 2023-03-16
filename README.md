@@ -13,9 +13,10 @@ Hello ,
 
 <!--START_SECTION:waka-->
 ```text
-09 March, 2023 - 15 March, 2023
+10 March, 2023 - 16 March, 2023
 
-C++   0 secs          █████████████████████████   100.00 %
+C++      26 mins         ███████████████████████░░   95.08 % 
+Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 <!--END_SECTION:waka-->
 

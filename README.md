@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-27 March, 2023 - 02 April, 2023
+28 March, 2023 - 03 April, 2023
 
 TeX            52 mins         ███████████████████████░░   92.41 % 
 OpenEdge ABL   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 

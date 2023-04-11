@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-04 April, 2023 - 10 April, 2023
+05 April, 2023 - 11 April, 2023
 
 Python   15 mins         █████████████████████████   100.00 %
 ```

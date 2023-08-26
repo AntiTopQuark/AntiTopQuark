@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-19 August, 2023 - 25 August, 2023
+20 August, 2023 - 26 August, 2023
 
 C++        4 hrs 46 mins   ███████████████░░░░░░░░░░   60.71 % 
 Python     1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   15.12 % 

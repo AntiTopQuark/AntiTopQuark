@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-22 September, 2023 - 28 September, 2023
+23 September, 2023 - 29 September, 2023
 
 C++            6 hrs 14 mins   ███████████████████████░░   94.28 % 
 Ezhil          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 

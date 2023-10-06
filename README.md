@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-29 September, 2023 - 05 October, 2023
+30 September, 2023 - 06 October, 2023
 
 C++   41 mins         █████████████████████████   100.00 %
 ```

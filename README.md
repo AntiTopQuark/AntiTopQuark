@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-06 November, 2023 - 12 November, 2023
+07 November, 2023 - 13 November, 2023
 
 C++      18 hrs 28 mins  ██████████████████████░░░   88.09 % 
 Python   2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 

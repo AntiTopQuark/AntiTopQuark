@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-23 November, 2023 - 29 November, 2023
+24 November, 2023 - 30 November, 2023
 
 C++        10 hrs 28 mins  ███████████████████░░░░░░   77.85 % 
 Rust       1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 

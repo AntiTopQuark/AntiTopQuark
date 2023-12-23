@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-16 December, 2023 - 22 December, 2023
+17 December, 2023 - 23 December, 2023
 
 C++        11 hrs 31 mins  ███████████████████░░░░░░   78.73 % 
 Markdown   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 

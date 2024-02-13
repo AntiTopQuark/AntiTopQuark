@@ -21,7 +21,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-06 February, 2024 - 12 February, 2024
+07 February, 2024 - 13 February, 2024
 
 C++   32 mins         █████████████████████████   100.00 %
 ```

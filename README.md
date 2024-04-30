@@ -7,11 +7,9 @@
 
 😸 Cat Dad x2 | 🎉 @AntiTopQuark | ✨ Chasing Tech & Dreams
 
-🌐 My blog: http://blog.antitopquark.website/
+🌐 My blog: https://antitopquark.website/
 
-📄 My Resume: http://cv_cn.antitopquark.website/
-
-🏆 My OJ: http://oj.antitopquark.website/
+📄 My Resume: https://antitopquark.website/downloads/resume_cn.pdf
 
 📧 How to reach me: AntiTopQuark1350@outlook.com
 

@@ -19,7 +19,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-31 May, 2024 - 06 June, 2024
+01 June, 2024 - 07 June, 2024
 
 Markdown   17 mins         █████████████████████████   100.00 %
 ```

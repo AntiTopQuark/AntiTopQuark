@@ -18,7 +18,11 @@ Feel free to follow my GitHub and connect with me! 😄
 📊 **The last 7 days I spent my time on** 
 
 <!--START_SECTION:waka-->
-Oops, no coding activity at all :(
+```text
+16 July, 2024 - 22 July, 2024
+
+Markdown   4 mins          █████████████████████████   100.00 %
+```
 <!--END_SECTION:waka-->
 
 

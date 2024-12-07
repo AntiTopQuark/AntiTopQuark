@@ -19,7 +19,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 <!--START_SECTION:waka-->
 ```text
-30 November, 2024 - 06 December, 2024
+01 December, 2024 - 07 December, 2024
 
 Other      52 hrs 7 mins   ███████████████████████░░   95.17 % 
 Markdown   1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 

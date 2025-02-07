@@ -17,13 +17,7 @@ Feel free to follow my GitHub and connect with me! 😄
 
 📊 **The last 7 days I spent my time on** 
 
-<!--START_SECTION:waka-->
-```text
-09 January, 2025 - 15 January, 2025
+<!--WakaTime-Start-->
+<pre><h2>Last 7 Days</h2>PHP               2 hrs 53 mins 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜  66.79 %</br>Vue.js             1 hr 24 mins 🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  32.48 %</br>JSON                      1 min ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.66 %</br>JavaScript               0 secs ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.07 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>973 hrs 20 mins</br><strong>Timespan:           </strong>832 days</br><strong>Daily average:      </strong>1 hr(s) 9 min(s)</pre>
 
-Other      37 hrs 23 mins  ████████████████████████░   95.76 % 
-Markdown   1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-```
-<!--END_SECTION:waka-->
-
-
+<!--WakaTime-End-->

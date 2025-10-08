@@ -18,5 +18,5 @@ Feel free to follow my GitHub and connect with me! 😄
 📊 **The last 7 days I spent my time on** 
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Other            24 hrs 20 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  99.92 %</br>Java                      1 min ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.08 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>3,759 hrs 49 mins</br><strong>Timespan:           </strong>1380 days</br><strong>Daily average:      </strong>2 hr(s) 43 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Other            14 hrs 54 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100.00 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>3,760 hrs 45 mins</br><strong>Timespan:           </strong>1381 days</br><strong>Daily average:      </strong>2 hr(s) 43 min(s)</pre>
 <!--WakaTime-End-->

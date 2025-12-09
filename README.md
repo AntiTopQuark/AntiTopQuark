@@ -1,7 +1,7 @@
 
 **Hello! I'm AntiTopQuark 👋**
 
-🔧 Database Kernel Engineer | 🌊 OceanBase | 🤖 Autonomous Database Explorer
+🔧 Database Kernel Engineer | 🌊 Bytedance | 🤖 Autonomous Database Explorer
 
 🌱 Open Source Novice | 💻 Coding Enthusiast | 🔍 Detective Fiction Fan
 

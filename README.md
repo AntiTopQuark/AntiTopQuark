@@ -1,11 +1,9 @@
 
 **Hello! I'm AntiTopQuark 👋**
 
-🔧 Database Kernel Engineer | 🌊 Bytedance | 🤖 Autonomous Database Explorer
+🔧 数据库内核开发 | 🌊 Bytedance | 🤖 Apache Doris (ex. OceanBase)
 
-🌱 Open Source Novice | 💻 Coding Enthusiast | 🔍 Detective Fiction Fan
-
-😸 Cat Dad x2 | 🎉 @AntiTopQuark | ✨ Chasing Tech & Dreams
+🌱 爱好量化交易、侦探推理 |😸 有俩猫 | 🎉 @AntiTopQuark
 
 🌐 My blog: https://antitopquark.website/
 

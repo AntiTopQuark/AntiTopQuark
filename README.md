@@ -5,9 +5,9 @@
 
 🌱 爱好量化交易、侦探推理 |😸 有俩猫 | 🎉 @AntiTopQuark
 
-🌐 My blog: https://antitopquark.website/
+🌐 博客|blog : https://antitopquark.website/
 
-📄 My Resume: https://antitopquark.website/downloads/resume_cn.pdf
+📄 简历|resume: https://antitopquark.website/downloads/resume_cn.pdf
 
 📧 How to reach me: AntiTopQuark1350@outlook.com
 

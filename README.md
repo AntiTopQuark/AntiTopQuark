@@ -16,5 +16,5 @@ Feel free to follow my GitHub and connect with me! 😄
 📊 **The last 7 days I spent my time on** 
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Other            35 hrs 28 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  93.65 %</br>SQL                1 hr 21 mins 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.58 %</br>Shell               1 hr 2 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   2.77 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>4,687 hrs 51 mins</br><strong>Timespan:           </strong>1541 days</br><strong>Daily average:      </strong>3 hr(s) 2 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Other            32 hrs 56 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  92.26 %</br>SQL                1 hr 47 mins 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   5.00 %</br>Shell                   58 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   2.74 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>4,694 hrs 6 mins</br><strong>Timespan:           </strong>1542 days</br><strong>Daily average:      </strong>3 hr(s) 2 min(s)</pre>
 <!--WakaTime-End-->

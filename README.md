@@ -16,5 +16,5 @@ Feel free to follow my GitHub and connect with me! 😄
 📊 **The last 7 days I spent my time on** 
 
 <!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Other             38 hrs 4 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  98.68 %</br>Markdown                30 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.32 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>4,994 hrs 24 mins</br><strong>Timespan:           </strong>1595 days</br><strong>Daily average:      </strong>3 hr(s) 7 min(s)</pre>
+<pre><h2>Last 7 Days</h2>Other            42 hrs 48 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  98.84 %</br>Markdown                30 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.16 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>5,001 hrs 49 mins</br><strong>Timespan:           </strong>1596 days</br><strong>Daily average:      </strong>3 hr(s) 7 min(s)</pre>
 <!--WakaTime-End-->
